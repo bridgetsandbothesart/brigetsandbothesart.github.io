@@ -1,0 +1,51 @@
+.menu li ul{
+	display: none;
+	position: absolute;
+}
+
+.menu li:hover ul{
+	display: block;
+}
+
+body{
+	background-color: #989797;
+	color: #D4E7ED;
+	
+}
+.heading{
+	background-color: #3889AE;
+	width: 100%;
+	float: left;
+}
+ul.menu li{
+	display: inline;
+}
+body{
+	background-color: #989797;
+	color: #D4E7ED;
+	
+}
+
+.titleSB{
+	background-color: #3889AE;
+	width: 100%;
+	height: 8%;
+}
+
+.titleP{
+	background-color: #3889AE;
+	width: 100%;
+	height: 8%;
+}
+
+.titleBW{
+	background-color: #3889AE;
+	width: 100%;
+	height: 8%;
+}
+
+.titlePR{
+	background-color: #3889AE;
+	width: 100%;
+	height: 8%;
+}
